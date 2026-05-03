@@ -106,7 +106,8 @@ This project is licensed under the MIT License.
 ---
 
 ## Author
-Jeevika Tharini
+
+Sudhakar Sengan
 
 ---
 
@@ -116,7 +117,7 @@ If you use this work in your research, please cite:
 ```
 @article{non_iids2026,
   title={Non-IIDS: Intelligent Intrusion Detection Framework},
-  author={Tharini, Jeevika},
+  author={Sengan, Sudhakar},
   year={2026}
 }
 ```
